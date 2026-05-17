@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://prosto_dimon.tilda.ws/sitemap.xml

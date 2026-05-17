@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "deep-research": {
+      "source": "affaan-m/everything-claude-code",
+      "sourceType": "github",
+      "skillPath": "skills/deep-research/SKILL.md",
+      "computedHash": "ddacb75aee8268f2b9eb90320671af1db1518c4e9c4cc49f3edbff715ede85d3"
+    },
+    "research-ops": {
+      "source": "affaan-m/everything-claude-code",
+      "sourceType": "github",
+      "skillPath": "skills/research-ops/SKILL.md",
+      "computedHash": "69eec4c9aeae2c21a9a4e26420c65a17c3feb8143c5a446b0210d7f80fdf4fbb"
+    }
+  }
+}
